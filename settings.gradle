@@ -1,0 +1,2 @@
+rootProject.name = 'PhilippineCurrencyDetector'
+include ':app', ':lib_support', ':lib_task_api', ':models'
